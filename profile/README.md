@@ -1,2 +1,2 @@
 # Hello, World
-![image](banner.png)
+![image](./profile/banner.png)
