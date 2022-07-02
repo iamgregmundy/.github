@@ -1,2 +1,3 @@
-# Hi, I'm Greg 🙌🏽 
+# Hi, I'm Greg 🙌🏽 👨🏽‍💻️ 🇯🇲 🇺🇸
 ![image](./profile/banner.png)
+
