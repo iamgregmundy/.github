@@ -1,3 +1,3 @@
 ![Banner](./profile/banner.png)
-![Embedded Line Chart](https://recharts.org/en-US/examples/TinyLineChart)
+![Embedded Line Chart](https://github-readme-stats.vercel.app/api?username=gregmundy)
 
