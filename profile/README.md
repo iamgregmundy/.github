@@ -1,2 +1,2 @@
 # Hello, World
-[[banner.png|Main Banner]]
+![image](banner.png)
