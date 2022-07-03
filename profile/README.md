@@ -46,6 +46,3 @@
 > If something is new to me or the situation requires it, I’ll delve deep. But I reach a point of exhaustion
 > with the fact-finding and need to move on.
 
----
-
-![Embedded Line Chart](https://github-readme-stats.vercel.app/api?username=gregmundy)
