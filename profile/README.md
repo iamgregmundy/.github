@@ -1,5 +1,4 @@
 ![Banner](./profile/banner.png)
-![Embedded Line Chart](https://github-readme-stats.vercel.app/api?username=gregmundy)
 # Greg: A Users Guide
 ## Give me opportunities to demonstrate.
 I interact with the world in a tangible way. I build, model, and construct. Give me the opportunity to
@@ -39,3 +38,6 @@ your work. In fact, I respect your contributions so much that I don’t need to 
 
 If something is new to me or the situation requires it, I’ll delve deep. But I reach a point of exhaustion
 with the fact-finding and need to move on.
+
+---
+![Embedded Line Chart](https://github-readme-stats.vercel.app/api?username=gregmundy)
